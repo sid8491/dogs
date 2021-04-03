@@ -2,35 +2,35 @@ import React from "react";
 import OwlCarousel from "react-owl-carousel";
 
 const options = {
-    nav: true,
-    navText: [
-      "<i class='fa fa-chevron-left'></i>",
-      "<i class='fa fa-chevron-right'></i>",
-    ],
-    dots: true,
-    margin: 10,
-    loop: false,
-    autoplay: false,
-    navRewind: true,
-    responsiveClass: true,
-    responsive: {
-      0: {
-        items: 1,
-      },
-      400: {
-        items: 1,
-      },
-      600: {
-        items: 2,
-      },
-      700: {
-        items: 3,
-      },
-      1000: {
-        items: 4,
-      },
+  nav: true,
+  navText: [
+    "<i class='fa fa-chevron-left'></i>",
+    "<i class='fa fa-chevron-right'></i>",
+  ],
+  dots: true,
+  margin: 10,
+  loop: false,
+  autoplay: false,
+  navRewind: true,
+  responsiveClass: true,
+  responsive: {
+    0: {
+      items: 1,
     },
-  };
+    400: {
+      items: 1,
+    },
+    600: {
+      items: 2,
+    },
+    700: {
+      items: 3,
+    },
+    1000: {
+      items: 4,
+    },
+  },
+};
 
 function OurServices() {
   return (
@@ -47,11 +47,13 @@ function OurServices() {
               <div className="col-xl-6">
                 <h3>The best for your pet!</h3>
                 <p>
-                  Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                  leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                  scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                  lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                  elementum ipsum convall.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Integer volutpat venenatis metus. Duis urna sem, efficitur sit
+                  amet neque ac, suscipit accumsan libero. Ut in ultricies
+                  lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
+                  hendrerit viverra arcu, eget congue est pellentesque vitae.
+                  Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
+                  finibus vitae, egestas id dui.
                 </p>
                 <p>
                   <strong>
@@ -102,7 +104,10 @@ function OurServices() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         Integer dictum malesuada.
                       </p>
-                      <a className="btn btn-primary" href="services-single.html">
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
                         read more
                       </a>
                     </div>
@@ -110,67 +115,76 @@ function OurServices() {
                 </div>
                 {/* </div> */}
                 {/* <!-- service 2  --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-pet-shelter"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Pet Hotel</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-pet-shelter"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Pet Hotel</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
-              {/* </div> */}
+                {/* </div> */}
                 {/* <!-- service 4 --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-dog-with-first-aid-kit-bag"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Veterinary 24/7</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
-                  </div>
-                </div>
-              </div>
-              
-              {/* <!-- service 6 --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-dog-training-3"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Training</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-dog-with-first-aid-kit-bag"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Veterinary 24/7</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
+
+                {/* <!-- service 6 --> */}
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-dog-training-3"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Training</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </OwlCarousel>
             </div>
           </div>

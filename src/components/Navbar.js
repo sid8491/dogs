@@ -4,42 +4,42 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <div>
-      <nav id="main-nav" class="navbar-expand-xl fixed-top">
-        <div class="row">
+      <nav id="main-nav" className="navbar-expand-xl fixed-top">
+        <div className="row">
           {/* <!-- Start Top Bar --> */}
-          <div class="container-fluid top-bar">
-            <div class="container">
-              <div class="row">
-                <div class="col-md-12">
+          <div className="container-fluid top-bar">
+            <div className="container">
+              <div className="row">
+                <div className="col-md-12">
                   {/* <!-- Start Contact Info --> */}
-                  <ul class="contact-details float-left">
+                  <ul className="contact-details float-left">
                     <li>
-                      <i class="fa fa-map-marker"></i>Sector-65, Gurgaon
+                      <i className="fa fa-map-marker"></i>Sector-65, Gurgaon
                     </li>
                     <li>
-                      <i class="fa fa-envelope"></i>
+                      <i className="fa fa-envelope"></i>
                       <a href="mailto:email@site.com">dogs@dogsite.com</a>
                     </li>
                     <li>
-                      <i class="fa fa-phone"></i>+91 9876543210
+                      <i className="fa fa-phone"></i>+91 9876543210
                     </li>
                   </ul>
                   {/* <!-- End Contact Info --> */}
                   {/* <!-- Start Social Links --> */}
-                  <ul class="social-list float-right list-inline">
-                    <li class="list-inline-item">
+                  <ul className="social-list float-right list-inline">
+                    <li className="list-inline-item">
                       <a title="Facebook" href="/" target="_blank">
-                        <i class="fab fa-facebook-f"></i>
+                        <i className="fab fa-facebook-f"></i>
                       </a>
                     </li>
-                    <li class="list-inline-item">
+                    <li className="list-inline-item">
                       <a title="Twitter" href="/" target="_blank">
-                        <i class="fab fa-twitter"></i>
+                        <i className="fab fa-twitter"></i>
                       </a>
                     </li>
-                    <li class="list-inline-item">
+                    <li className="list-inline-item">
                       <a title="Instagram" href="/" target="_blank">
-                        <i class="fab fa-instagram"></i>
+                        <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                   </ul>
@@ -53,16 +53,16 @@ function Navbar() {
           </div>
           {/* <!-- End Top bar --> */}
           {/* <!-- Navbar Starts --> */}
-          <div class="navbar container-fluid">
-            <div class="container ">
+          <div className="navbar container-fluid">
+            <div className="container ">
               {/* <!-- logo --> */}
-              <a class="navbar-brand" href="index.html">
-                <i class="flaticon-dog-20"></i>
+              <a className="navbar-brand" href="/">
+                <i className="flaticon-dog-20"></i>
                 <span>Woof!</span>
               </a>
               {/* <!-- Navbartoggler --> */}
               <button
-                class="navbar-toggler"
+                className="navbar-toggler"
                 type="button"
                 data-toggle="collapse"
                 data-target="#navbarResponsive"
@@ -70,103 +70,52 @@ function Navbar() {
                 aria-expanded="false"
                 aria-label="Toggle navigation"
               >
-                <span class="navbar-toggle-icon">
-                  <i class="fas fa-bars"></i>
+                <span className="navbar-toggle-icon">
+                  <i className="fas fa-bars"></i>
                 </span>
               </button>
-              <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav ml-auto">
+              <div className="collapse navbar-collapse" id="navbarResponsive">
+                <ul className="navbar-nav ml-auto">
                   {/* <!-- menu item --> */}
-                  <li class="nav-item active">
-                        <Link class="nav-link" to="/">
-                        Home
-                        </Link>
-                  </li>
-                  {/* <!-- menu item --> */}
-                  <li class="nav-item">
-                    <Link class="nav-link" to="/services">
-                        Services
+                  <li className="nav-item active">
+                    <Link className="nav-link" to="/">
+                      Home
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li class="nav-item">
-                    <Link class="nav-link" to="/about">
-                        About
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/services">
+                      Services
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li class="nav-item dropdown">
-                    <a
-                      class="nav-link dropdown-toggle"
-                      href="/"
-                      id="adopt-dropdown"
-                      data-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/about">
+                      About
+                    </Link>
+                  </li>
+                  {/* <!-- menu item --> */}
+                  <li className="nav-item dropdown">
+                    <Link className="nav-link" to="/adopt">
                       Adopt
-                    </a>
-                    <div class="dropdown-menu" aria-labelledby="adopt-dropdown">
-                      <a class="dropdown-item" href="adoption.html">
-                        Adoption Gallery
-                      </a>
-                      <a class="dropdown-item" href="adoption-single.html">
-                        Adoption Single Page
-                      </a>
-                    </div>
+                    </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li class="nav-item dropdown">
-                    <a
-                      class="nav-link dropdown-toggle"
-                      href="/"
-                      id="gallery-dropdown"
-                      data-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/gallery">
                       Gallery
-                    </a>
-                    <div
-                      class="dropdown-menu"
-                      aria-labelledby="gallery-dropdown"
-                    >
-                      <a class="dropdown-item" href="gallery.html">
-                        Gallery Style 1
-                      </a>
-                      <a class="dropdown-item" href="gallery2.html">
-                        Gallery Style 2
-                      </a>
-                    </div>
+                    </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li class="nav-item dropdown">
-                    <a
-                      class="nav-link dropdown-toggle"
-                      href="/"
-                      id="contact-dropdown"
-                      data-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false"
-                    >
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/contact">
                       Contact
-                    </a>
-                    <div
-                      class="dropdown-menu"
-                      aria-labelledby="contact-dropdown"
-                    >
-                      <a class="dropdown-item" href="contact.html">
-                        Contact Style 1
-                      </a>
-                      <a class="dropdown-item" href="contact2.html">
-                        Contact Style 2
-                      </a>
-                    </div>
+                    </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li class="nav-item dropdown">
+                  <li className="nav-item dropdown">
                     <a
-                      class="nav-link dropdown-toggle"
+                      className="nav-link dropdown-toggle"
                       href="/"
                       id="others-dropdown"
                       data-toggle="dropdown"
@@ -176,23 +125,20 @@ function Navbar() {
                       Other pages
                     </a>
                     <div
-                      class="dropdown-menu"
+                      className="dropdown-menu"
                       aria-labelledby="others-dropdown"
                     >
-                      <a class="dropdown-item" href="team.html">
-                        Our Team
+                      <a className="dropdown-item" href="/">
+                        Training and Behaviour
                       </a>
-                      <a class="dropdown-item" href="blog.html">
-                        Blog Home
+                      <a className="dropdown-item" href="/">
+                        Sniffeer and Service Dogs
                       </a>
-                      <a class="dropdown-item" href="blog-single.html">
-                        Blog Single
+                      <a className="dropdown-item" href="/">
+                        Dog Training Courses
                       </a>
-                      <a class="dropdown-item" href="elements.html">
-                        Elements Page
-                      </a>
-                      <a class="dropdown-item" href="404.html">
-                        404 Page
+                      <a className="dropdown-item" href="/">
+                        Dogs for Films
                       </a>
                     </div>
                   </li>

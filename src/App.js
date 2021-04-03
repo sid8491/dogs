@@ -4,6 +4,9 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Services from './components/Services';
 import About from './components/About';
+import Contact from './components/Contact';
+import Gallery from './components/Gallery';
+import Adopt from './components/Adopt';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -16,6 +19,9 @@ function App() {
             <Route path="/" exact component={Home} />
             <Route path="/services" component={Services} />
             <Route path="/about" component={About} />
+            <Route path="/contact" component={Contact} />
+            <Route path="/gallery" component={Gallery} />
+            <Route path="/adopt" component={Adopt} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
         </div>

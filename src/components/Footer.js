@@ -23,11 +23,11 @@ function Footer() {
                 <i class="fas fa-envelope margin-icon"></i>Contact Us
               </h6>
               <ul class="list-unstyled">
-                <li>(123) 456-789</li>
+                <li>+91 9876543210</li>
                 <li>
-                  <a href="mailto:email@yoursite.com">email@yoursite.com</a>
+                  <a href="mailto:dogs@dogsite.com">dogs@dogsite.com</a>
                 </li>
-                <li>Pet Street 123 - New York </li>
+                <li>Sector-65, Gurgaon </li>
               </ul>
               {/* <!--/ul --> */}
             </div>
@@ -49,8 +49,8 @@ function Footer() {
           <div class="row">
             <div class="credits col-sm-12">
               <p>
-                Copyright 2018 / Designed by{" "}
-                <a href="/">Ingrid Kuhn</a>
+                Copyright 2021 / Designed by{" "}
+                <a href="/">Esnay Productions</a>
               </p>
             </div>
           </div>

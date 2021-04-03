@@ -95,7 +95,7 @@ function Contact() {
                 <div className="contact-icon-info">
                   <h5>Send us a Message</h5>
                   <p className="h7">
-                    <a href="mailto:email@yoursite.com">email@yoursite.com</a>
+                    <a href="mailto:dogs@dogsite.com">dogs@dogsite.com</a>
                   </p>
                 </div>
               </div>

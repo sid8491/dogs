@@ -24,7 +24,7 @@ function Blurb() {
                 ipsum.
               </p>
               {/* <!-- button  --> */}
-              <a href="contact.html" className="btn btn-primary">
+              <a href="/contact" className="btn btn-primary">
                 contact us
               </a>
             </div>

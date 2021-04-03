@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 function About() {
-    return (
-        <div>
-            {/* <!-- Section About Us  --> */}
+  return (
+    <div>
+      {/* <!-- Section About Us  --> */}
       <section id="about" className="dog-bg2">
         <div className="container">
           <div className="section-heading text-center">
@@ -17,22 +17,43 @@ function About() {
             <div className="col-lg-6">
               <h3>Caring for your pets</h3>
               <p>
-                Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                elementum ipsum convall.
+                We specialise in personal & family protection dogs, estate &
+                business guard dogs, security patrol dogs, schutzhund, KNPV and
+                mondio ring sport.
               </p>
               <p>
-                Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall
-                Maecenas at arcu risus scelerisque laoree.
+                We train and supply personal protection dogs in India and
+                worldwide. Family/personal protection dogs in India are a fairly
+                new concept.
               </p>
+              {/* <p>
+                Sicherheit K9 produce highly trained family protection dogs that
+                are sociable and balanced and yet more than capable of
+                protecting YOU and YOUR FAMILY against any threat or multiple
+                threats. Our dogs are taught to fight through attacks from
+                weapons such as batons, knives and guns.
+              </p> */}
+              <p>
+                Our dogs obey all commands 99.9% of the time due to our rigorous
+                training programme made by our master trainer K N Mac.
+              </p>
+              {/* <p>
+                People are now only starting to see the great benefit of owning
+                a personal or family protection dog. The serious threat of crime
+                is at our doorstep. Not only will a fully trained dog protect
+                your family and premises/ business but would willingly give
+                their life to protect yours.
+              </p> */}
+              <h6>At Protection Dogs India we train and provide:</h6>
               <ul className="custom pl-0">
-                <li>
-                  Orci eget, viverra elit liquam erat volut pat phas ellus ac
-                </li>
-                <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell</li>
-                <li>Aliquam erat volut pat phas ellu</li>
+                <li>Executive Protection Dogs</li>
+                <li>Personal & Family Protection Dogs</li>
+                <li>Security Patrol Dogs</li>
+                <li>IPO/Schutzhund Dogs</li>
+                <li>KNPV/Dutch Royal Police Dogs</li>
+                <li>Sniffer Dogs</li>
+                <li>Security K9 Handlers</li>
+                <li>Working Line Puppies ​</li>
               </ul>
               {/* <!-- /ul  --> */}
             </div>
@@ -118,11 +139,13 @@ function About() {
               <div className="testimonial">
                 <div className="content">
                   <p className="description">
-                    Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                    leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                    scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                    lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                    elementum ipsum convall.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Integer volutpat venenatis metus. Duis urna sem, efficitur
+                    sit amet neque ac, suscipit accumsan libero. Ut in ultricies
+                    lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
+                    hendrerit viverra arcu, eget congue est pellentesque vitae.
+                    Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
+                    finibus vitae, egestas id dui.
                   </p>
                 </div>
                 {/* <!-- /content  --> */}
@@ -172,11 +195,13 @@ function About() {
               <div className="testimonial">
                 <div className="content">
                   <p className="description">
-                    Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                    leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                    scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                    lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                    elementum ipsum convall.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Integer volutpat venenatis metus. Duis urna sem, efficitur
+                    sit amet neque ac, suscipit accumsan libero. Ut in ultricies
+                    lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
+                    hendrerit viverra arcu, eget congue est pellentesque vitae.
+                    Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
+                    finibus vitae, egestas id dui.
                   </p>
                 </div>
                 {/* <!-- /content  --> */}
@@ -203,8 +228,8 @@ function About() {
         {/* <!-- /container  --> */}
       </section>
       {/* <!-- / Section Ends  --> */}
-        </div>
-    )
+    </div>
+  );
 }
 
-export default About
+export default About;

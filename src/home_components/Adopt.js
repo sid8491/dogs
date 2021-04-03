@@ -48,7 +48,7 @@ function Adopt() {
                     {/* <!-- Buttons  --> */}
                     <div className="text-center">
                       <a
-                        href="adoption-single.html"
+                        href="/adopt"
                         className="btn btn-primary"
                       >
                         More Info
@@ -90,7 +90,7 @@ function Adopt() {
                     {/* <!-- Buttons  --> */}
                     <div className="text-center">
                       <a
-                        href="adoption-single.html"
+                        href="/adopt"
                         className="btn btn-primary"
                       >
                         More Info
@@ -132,7 +132,7 @@ function Adopt() {
                     {/* <!-- Buttons  --> */}
                     <div className="text-center">
                       <a
-                        href="adoption-single.html"
+                        href="/adopt"
                         className="btn btn-primary"
                       >
                         More Info
@@ -174,7 +174,7 @@ function Adopt() {
                     {/* <!-- Buttons  --> */}
                     <div className="text-center">
                       <a
-                        href="adoption-single.html"
+                        href="/adopt"
                         className="btn btn-primary"
                       >
                         More Info
@@ -191,7 +191,7 @@ function Adopt() {
           </div>
           {/* <!-- /row  --> */}
           <div className="text-center mt-5">
-            <a href="adoption.html" className="btn btn-secondary btn-lg">
+            <a href="/adopt" className="btn btn-secondary btn-lg">
               See more pets
             </a>
           </div>

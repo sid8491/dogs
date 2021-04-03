@@ -47,10 +47,10 @@ function Services() {
           <nav aria-label="breadcrumb">
             <ol className="breadcrumb">
               <li className="breadcrumb-item">
-                <a href="index.html">Home</a>
+                <a href="/">Home</a>
               </li>
               <li className="breadcrumb-item active" aria-current="page">
-                Services 1
+                Services
               </li>
             </ol>
           </nav>
@@ -67,11 +67,13 @@ function Services() {
               <div className="col-xl-6">
                 <h3>The best for your pet!</h3>
                 <p>
-                  Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                  leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                  scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                  lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                  elementum ipsum convall.
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                  Integer volutpat venenatis metus. Duis urna sem, efficitur sit
+                  amet neque ac, suscipit accumsan libero. Ut in ultricies
+                  lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
+                  hendrerit viverra arcu, eget congue est pellentesque vitae.
+                  Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
+                  finibus vitae, egestas id dui.
                 </p>
                 <p>
                   <strong>
@@ -123,7 +125,10 @@ function Services() {
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         Integer dictum malesuada.
                       </p>
-                      <a className="btn btn-primary" href="services-single.html">
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
                         read more
                       </a>
                     </div>
@@ -131,72 +136,80 @@ function Services() {
                 </div>
                 {/* </div> */}
                 {/* <!-- service 2  --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-pet-shelter"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Pet Hotel</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-pet-shelter"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Pet Hotel</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
-              {/* </div> */}
+                {/* </div> */}
                 {/* <!-- service 4 --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-dog-with-first-aid-kit-bag"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Veterinary 24/7</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
-                  </div>
-                </div>
-              </div>
-              
-              {/* <!-- service 6 --> */}
-              <div className="col-md-12">
-                <div className="serviceBox">
-                  {/* <!-- service icon --> */}
-                  <div className="service-icon">
-                    <i className="flaticon-dog-training-3"></i>
-                  </div>
-                  {/* <!-- service content --> */}
-                  <div className="service-content">
-                    <h6>Training</h6>
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      Integer dictum malesuada.
-                    </p>
-                    <a className="btn btn-primary" href="services-single.html">
-                      read more
-                    </a>
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-dog-with-first-aid-kit-bag"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Veterinary 24/7</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
+
+                {/* <!-- service 6 --> */}
+                <div className="col-md-12">
+                  <div className="serviceBox">
+                    {/* <!-- service icon --> */}
+                    <div className="service-icon">
+                      <i className="flaticon-dog-training-3"></i>
+                    </div>
+                    {/* <!-- service content --> */}
+                    <div className="service-content">
+                      <h6>Training</h6>
+                      <p>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        Integer dictum malesuada.
+                      </p>
+                      <a
+                        className="btn btn-primary"
+                        href="/services"
+                      >
+                        read more
+                      </a>
+                    </div>
+                  </div>
+                </div>
               </OwlCarousel>
             </div>
           </div>
           {/* end new service carasoul */}
-
         </div>
         {/* <!--/ container --> */}
         <div className="container bottom-block-padding">
@@ -226,7 +239,7 @@ function Services() {
                   convall Maecenas at arcu risus scelerisque laoree.
                 </strong>
               </p>
-              <a className="btn btn-primary" href="contact.html">
+              <a className="btn btn-primary" href="/contact">
                 {" "}
                 Contact us
               </a>

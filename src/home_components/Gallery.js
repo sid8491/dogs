@@ -1,6 +1,6 @@
 import React from "react";
-import Lightbox from 'react-image-lightbox';
-import 'react-image-lightbox/style.css'
+import Lightbox from "react-image-lightbox";
+import "react-image-lightbox/style.css";
 
 function Gallery() {
   return (
@@ -31,313 +31,127 @@ function Gallery() {
         <div className="ml-1">
           <div className="row">
             {/* Image 1 */}
-            <div className="dogscats col-lg-3 col-sm-6 col-md-6">
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery1.jpg"
+                  src="assets/img/gallery/gallery (1).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery1.jpg"
+                  href="assets/img/gallery/gallery (1).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-            {/* Image 2 */}
-            <div className="col-lg-3 col-sm-6 col-md-6">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (2).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
+                  href="assets/img/gallery/gallery (2).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-            {/* Image 2 */}
-            <div className="col-lg-3 col-sm-6 col-md-6">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (3).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
+                  href="assets/img/gallery/gallery (3).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-            {/* Image 2 */}
-            <div className="col-lg-3 col-sm-6 col-md-6">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (4).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
+                  href="assets/img/gallery/gallery (4).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-            {/* Image 2 */}
-            <div className="col-lg-3 col-sm-6 col-md-6">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (5).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
+                  href="assets/img/gallery/gallery (5).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-            {/* Image 2 */}
-            <div className="col-lg-3 col-sm-6 col-md-6">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (6).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
+                  href="assets/img/gallery/gallery (6).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-          </div>
-        </div>
-        <div id="gallery-isotope" className="mt-5">
-          {/* <!-- Image 1 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery1.jpg"
+                  src="assets/img/gallery/gallery (7).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery1.jpg"
+                  href="assets/img/gallery/gallery (7).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
                 </a>
               </div>
             </div>
-          </div>
-          {/* <!-- Image 2 --> */}
-          <div className="other col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
+            {/* Image 1 */}
+            <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
                   className="img-fluid"
-                  src="assets/img/gallery/gallery2.jpg"
+                  src="assets/img/gallery/gallery (8).jpg"
                   alt=""
                 />
                 <a
-                  href="assets/img/gallery/gallery2.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 3 --> */}
-          <div className="other col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery3.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery3.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 4 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery4.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery4.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 5 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery5.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery5.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 6 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery6.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery6.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 7 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery7.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery7.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 8 --> */}
-          <div className="other col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery8.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery8.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 9 --> */}
-          <div className="other col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery9.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery9.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 10 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery10.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery10.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 11 --> */}
-          <div className="other col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery11.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery11.jpg"
-                  title="You can add caption to pictures."
-                >
-                  <span className="overlay-mask"></span>
-                </a>
-              </div>
-            </div>
-          </div>
-          {/* <!-- Image 12 --> */}
-          <div className="dogscats col-lg-3 col-sm-6 col-md-6">
-            <div className="isotope-item">
-              <div className="gallery-thumb">
-                <img
-                  className="img-fluid"
-                  src="assets/img/gallery/gallery12.jpg"
-                  alt=""
-                />
-                <a
-                  href="assets/img/gallery/gallery12.jpg"
+                  href="assets/img/gallery/gallery (8).jpg"
                   title="You can add caption to pictures."
                 >
                   <span className="overlay-mask"></span>
@@ -346,6 +160,14 @@ function Gallery() {
             </div>
           </div>
         </div>
+        <div className="container">
+          <div className="text-center pb-3">
+            <a href="/gallery" className="btn btn-primary btn-lg text-center">
+              See more...
+            </a>
+          </div>
+        </div>
+
         {/* <!-- /gallery-isotope--> */}
       </section>
       {/* <!-- / Section Ends --> */}
