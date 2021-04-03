@@ -28,17 +28,17 @@ function Navbar() {
                   {/* <!-- Start Social Links --> */}
                   <ul class="social-list float-right list-inline">
                     <li class="list-inline-item">
-                      <a title="Facebook" href="#" target="_blank">
+                      <a title="Facebook" href="/" target="_blank">
                         <i class="fab fa-facebook-f"></i>
                       </a>
                     </li>
                     <li class="list-inline-item">
-                      <a title="Twitter" href="#" target="_blank">
+                      <a title="Twitter" href="/" target="_blank">
                         <i class="fab fa-twitter"></i>
                       </a>
                     </li>
                     <li class="list-inline-item">
-                      <a title="Instagram" href="#" target="_blank">
+                      <a title="Instagram" href="/" target="_blank">
                         <i class="fab fa-instagram"></i>
                       </a>
                     </li>
@@ -98,7 +98,7 @@ function Navbar() {
                   <li class="nav-item dropdown">
                     <a
                       class="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="adopt-dropdown"
                       data-toggle="dropdown"
                       aria-haspopup="true"
@@ -119,7 +119,7 @@ function Navbar() {
                   <li class="nav-item dropdown">
                     <a
                       class="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="gallery-dropdown"
                       data-toggle="dropdown"
                       aria-haspopup="true"
@@ -143,7 +143,7 @@ function Navbar() {
                   <li class="nav-item dropdown">
                     <a
                       class="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="contact-dropdown"
                       data-toggle="dropdown"
                       aria-haspopup="true"
@@ -167,7 +167,7 @@ function Navbar() {
                   <li class="nav-item dropdown">
                     <a
                       class="nav-link dropdown-toggle"
-                      href="#"
+                      href="/"
                       id="others-dropdown"
                       data-toggle="dropdown"
                       aria-haspopup="true"

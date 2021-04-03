@@ -134,22 +134,22 @@ function Contact() {
                   <h5>Follow us on Social Media</h5>
                   <ul className="social-media">
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-facebook-square"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="/">
                         <i className="fab fa-pinterest"></i>
                       </a>
                     </li>

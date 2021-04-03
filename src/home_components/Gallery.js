@@ -17,13 +17,13 @@ function Gallery() {
         {/* <!-- centered Gallery navigation --> */}
         {/* <ul className="nav nav-pills cat center-nav">
             <li className="nav-item">
-               <a className="nav-link active" href="#" data-toggle="tab" data-filter="*">All</a>
+               <a className="nav-link active" href="/" data-toggle="tab" data-filter="*">All</a>
             </li>
             <li className="nav-item">
-               <a className="nav-link" href="#" data-toggle="tab" data-filter=".dogscats">Dogs and Cats</a>
+               <a className="nav-link" href="/" data-toggle="tab" data-filter=".dogscats">Dogs and Cats</a>
             </li>
             <li className="nav-item">
-               <a className="nav-link" href="#" data-toggle="tab" data-filter=".other">Other Pets</a>
+               <a className="nav-link" href="/" data-toggle="tab" data-filter=".other">Other Pets</a>
             </li>
          </ul> */}
         {/* <!-- /ul --> */}

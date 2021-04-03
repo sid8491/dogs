@@ -23,13 +23,13 @@ function Team() {
                 <figcaption>
                   {/* <!-- social icons  --> */}
                   <div className="icons">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-envelope"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
@@ -53,13 +53,13 @@ function Team() {
                 <figcaption>
                   {/* <!-- social icons  --> */}
                   <div className="icons">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-envelope"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
@@ -83,13 +83,13 @@ function Team() {
                 <figcaption>
                   {/* <!-- social icons  --> */}
                   <div className="icons">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-envelope"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
@@ -113,13 +113,13 @@ function Team() {
                 <figcaption>
                   {/* <!-- social icons  --> */}
                   <div className="icons">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-envelope"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>
@@ -143,13 +143,13 @@ function Team() {
                 <figcaption>
                   {/* <!-- social icons  --> */}
                   <div className="icons">
-                    <a href="#">
+                    <a href="/">
                       <i className="fa fa-envelope"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-facebook-f"></i>
                     </a>
-                    <a href="#">
+                    <a href="/">
                       <i className="fab fa-instagram"></i>
                     </a>
                   </div>

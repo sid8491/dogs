@@ -8,7 +8,7 @@ function Footer() {
         <div class="container">
           <div class="row">
             <div class="col-lg-6">
-              <a class="navbar-brand" href="index.html">
+              <a class="navbar-brand" href="/">
                 <i class="flaticon-dog-20"></i>
                 <span>Woof!</span>
               </a>
@@ -50,7 +50,7 @@ function Footer() {
             <div class="credits col-sm-12">
               <p>
                 Copyright 2018 / Designed by{" "}
-                <a href="http://www.ingridkuhn.com">Ingrid Kuhn</a>
+                <a href="/">Ingrid Kuhn</a>
               </p>
             </div>
           </div>
