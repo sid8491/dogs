@@ -41,17 +41,35 @@ function About() {
             <div class="col-lg-7 res-margin">
               <h3>Your pet deserve the best</h3>
               <p>
-                Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                elementum ipsum convall.
+                We specialise in personal & family protection dogs, estate &
+                business guard dogs, security patrol dogs, schutzhund, KNPV and
+                mondio ring sport.
               </p>
               <p>
                 <strong>
-                  Etiam rhoncus leo a dolor placerat, nec elementum ipsum
-                  convall Maecenas at arcu risus scelerisque laoree.
+                  We train and supply personal protection dogs in India and
+                  worldwide. <br />
+                  Family/personal protection dogs in India are a fairly new
+                  concept.
                 </strong>
+              </p>
+              <p>
+                Sicherheit K9 produce highly trained family protection dogs that
+                are sociable and balanced and yet more than capable of
+                protecting YOU and YOUR FAMILY against any threat or multiple
+                threats. Our dogs are taught to fight through attacks from
+                weapons such as batons, knives and guns.
+              </p>
+              <p>
+                Our dogs obey all commands 99.9% of the time due to our rigorous
+                training programme made by our master trainer K N Mac.{" "}
+              </p>
+              <p>
+                People are now only starting to see the great benefit of owning
+                a personal or family protection dog. The serious threat of crime
+                is at our doorstep. Not only will a fully trained dog protect
+                your family and premises/ business but would willingly give
+                their life to protect yours.
               </p>
             </div>
             {/* <!-- /col-lg --> */}
@@ -59,26 +77,17 @@ function About() {
           {/* <!-- /row --> */}
           <div class="row mt-5">
             <div class="col-lg-7">
-              <h4>We help to Improve their life quality</h4>
-              <p>
-                Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                elementum ipsum convall.
-              </p>
-              <p>
-                Etiam rhoncus leo a dolor placerat, nec elementum ipsum convall
-                Maecenas at arcu risus scelerisque laoree.
-              </p>
+              <h4>At Protection Dogs India we train and provide:</h4>
+
               <ul class="custom pl-0">
-                <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell</li>
-                <li>Aliquam erat volut pat phas ellu</li>
-                <li>
-                  Orci eget, viverra elit liquam erat volut pat phas ellus ac
-                </li>
-                <li>Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell</li>
-                <li>Aliquam erat volut pat phas ellu</li>
+                <li>Executive Protection Dogs</li>
+                <li>Personal & Family Protection Dogs</li>
+                <li>Security Patrol Dogs</li>
+                <li>IPO/Schutzhund Dogs</li>
+                <li>KNPV/Dutch Royal Police Dogs</li>
+                <li>Sniffer Dogs</li>
+                <li>Security K9 Handlers</li>
+                <li>Working Line Puppies</li>
               </ul>
               {/* <!-- /ul --> */}
             </div>
@@ -257,24 +266,25 @@ function About() {
               <div class="col-xl-6">
                 <h4>Caring for your pets since 2001</h4>
                 <p>
-                  Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                  leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                  scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                  lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                  elementum ipsum convall.
+                  Executives may need protection from workplace violence,
+                  corporate heads may need to travel to dangerous or unstable
+                  environments. Politicians and MLA's have constant threat from
+                  opposition. Home invasions and robberies are ever present. No
+                  matter the situation, Sicherheit Security Ltd has the
+                  solutions and experience to provide reliable protection for
+                  our clients globally.
                 </p>
                 <p>
-                  Etiam rhoncus leo a dolor placerat, nec elementum ipsum
-                  convall Maecenas at arcu risus scelerisque laoree.
+                  We are India's leading specialists in detection and scent
+                  dogs. We specialise in detection dogs for the following
                 </p>
                 <ul class="custom pl-0">
-                  <li>
-                    Orci eget, viverra elit liquam erat volut pat phas ellus ac
-                  </li>
-                  <li>
-                    Ipuset phas ellus ac sodales Lorem ipsum dolor Phas ell
-                  </li>
-                  <li>Aliquam erat volut pat phas ellu</li>
+                  <li>Explosives</li>
+                  <li>Narcotics/illegal substances</li>
+                  <li>Tobacco</li>
+                  <li>Cash</li>
+                  <li>Live body detection</li>
+                  <li>Disaster search & rescue (SAR)</li>
                 </ul>
                 {/* <!-- /ul --> */}
               </div>
@@ -290,6 +300,15 @@ function About() {
                 </div>
               </div>
               {/* <!-- /col-md --> */}
+              <div class="col-xl-12">
+                <p>
+                  Our training programmes select and produce dogs that have
+                  undeniable ability at detection and tracking. This is why we
+                  are second to none in the field. Most of our K9 detection dogs
+                  are dual purpose dogs and can be used for both security patrol
+                  and detection.
+                </p>
+              </div>
             </div>
             {/* <!-- /row --> */}
           </div>
