@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       {/* <!-- Section About Us  --> */}
-      <section id="about" className="dog-bg2">
+      <section id="about" className="dog-bg1">
         <div className="container">
           <div className="section-heading text-center">
             <h2>About Us</h2>
@@ -15,16 +15,16 @@ function About() {
         <div className="container block-padding pt-0">
           <div className="row">
             <div className="col-lg-6">
-              <h3>Caring for your pets</h3>
+              <h3>Some Heading</h3>
+              <p><strong>NAME OF OWNER</strong></p>
               <p>
-                We specialise in personal & family protection dogs, estate &
-                business guard dogs, security patrol dogs, schutzhund, KNPV and
-                mondio ring sport.
-              </p>
-              <p>
-                We train and supply personal protection dogs in India and
-                worldwide. Family/personal protection dogs in India are a fairly
-                new concept.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                volutpat venenatis metus. Duis urna sem, efficitur sit amet
+                neque ac, suscipit accumsan libero. Ut in ultricies lorem. Nam
+                ac ipsum velit. Aenean id nunc lectus. Sed hendrerit viverra
+                arcu, eget congue est pellentesque vitae. Vestibulum eu orci
+                ante. Nulla neque tellus, imperdiet vitae finibus vitae, egestas
+                id dui.
               </p>
               {/* <p>
                 Sicherheit K9 produce highly trained family protection dogs that
@@ -34,8 +34,8 @@ function About() {
                 weapons such as batons, knives and guns.
               </p> */}
               <p>
-                Our dogs obey all commands 99.9% of the time due to our rigorous
-                training programme made by our master trainer K N Mac.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
+                volutpat venenatis metus. Duis urna sem, efficitur sit amet
               </p>
               {/* <p>
                 People are now only starting to see the great benefit of owning
@@ -44,26 +44,25 @@ function About() {
                 your family and premises/ business but would willingly give
                 their life to protect yours.
               </p> */}
-              <h6>At Protection Dogs India we train and provide:</h6>
+              <h6>Bullet points:</h6>
               <ul className="custom pl-0">
-                <li>Executive Protection Dogs</li>
-                <li>Personal & Family Protection Dogs</li>
-                <li>Security Patrol Dogs</li>
-                <li>IPO/Schutzhund Dogs</li>
-                <li>KNPV/Dutch Royal Police Dogs</li>
-                <li>Sniffer Dogs</li>
-                <li>Security K9 Handlers</li>
-                <li>Working Line Puppies ​</li>
+                <li>Lorem ipsum dolor</li>
+                <li>consectetur adipiscing elit</li>
+                <li>Nulla neque tellus</li>
+                <li>Imac ipsum velit. Aenean id nunc lectus.</li>
+                <li>Aenean id nunc lectus</li>
               </ul>
               {/* <!-- /ul  --> */}
             </div>
             {/* <!-- image  --> */}
             <div className="col-lg-6">
               <img
-                src="assets/img/about2.png"
+                src="assets/img/about-us.png"
                 alt=""
                 className="img-fluid border-irregular1"
                 data-aos="zoom-in"
+                width="800"
+                height="800"
               />
             </div>
           </div>
@@ -131,100 +130,7 @@ function About() {
           {/* <!-- /container  --> */}
         </div>
         {/* <!-- /block-padding  --> */}
-        <div className="container bottom-block-padding">
-          <h3 className="text-center">What our clients say</h3>
-          <div className="col-md-12">
-            <div id="owl-testimonial" className="owl-carousel owl-theme">
-              {/* <!-- testimonial  --> */}
-              <div className="testimonial">
-                <div className="content">
-                  <p className="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Integer volutpat venenatis metus. Duis urna sem, efficitur
-                    sit amet neque ac, suscipit accumsan libero. Ut in ultricies
-                    lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
-                    hendrerit viverra arcu, eget congue est pellentesque vitae.
-                    Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
-                    finibus vitae, egestas id dui.
-                  </p>
-                </div>
-                {/* <!-- /content  --> */}
-                <div className="testimonial-pic">
-                  <img
-                    src="assets/img/team/team1.jpg"
-                    className="img-fluid"
-                    alt=""
-                  />
-                </div>
-                {/* <!-- /testimonial-pic  --> */}
-                <div className="testimonial-review">
-                  <h5 className="testimonial-title">Lucianna Smith</h5>
-                  <span>Teacher</span>
-                </div>
-                {/* <!-- /testimonial-review  --> */}
-              </div>
-              {/* <!-- /testimonial  --> */}
-              {/* <!-- testimonial  --> */}
-              <div className="testimonial">
-                <div className="content">
-                  <p className="description">
-                    Aliquam erat volutpat In id fermentum augue, ut pellentesque
-                    leo. Maecenas at arcu risus. Donec commodo sodales ex,
-                    scelerisque laoreet nibh hendrerit id. In aliquet magna nec
-                    lobortis maximus. Etiam rhoncus leo a dolor placerat, nec
-                    elementum ipsum convall.
-                  </p>
-                </div>
-                {/* <!-- /content  --> */}
-                <div className="testimonial-pic">
-                  <img
-                    src="assets/img/team/team2.jpg"
-                    className="img-fluid"
-                    alt=""
-                  />
-                </div>
-                {/* <!-- /testimonial-pic  --> */}
-                <div className="testimonial-review">
-                  <h5 className="testimonial-title">John Sadana</h5>
-                  <span>Doctor</span>
-                </div>
-                {/* <!-- /testimonial-review  --> */}
-              </div>
-              {/* <!-- /testimonial  --> */}
-              {/* <!-- testimonial  --> */}
-              <div className="testimonial">
-                <div className="content">
-                  <p className="description">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                    Integer volutpat venenatis metus. Duis urna sem, efficitur
-                    sit amet neque ac, suscipit accumsan libero. Ut in ultricies
-                    lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
-                    hendrerit viverra arcu, eget congue est pellentesque vitae.
-                    Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
-                    finibus vitae, egestas id dui.
-                  </p>
-                </div>
-                {/* <!-- /content  --> */}
-                <div className="testimonial-pic">
-                  <img
-                    src="assets/img/team/team3.jpg"
-                    className="img-fluid"
-                    alt=""
-                  />
-                </div>
-                {/* <!-- /testimonial-pic  --> */}
-                <div className="testimonial-review">
-                  <h5 className="testimonial-title">Jane Janeth</h5>
-                  <span>Librarian</span>
-                </div>
-                {/* <!-- /testimonial-review  --> */}
-              </div>
-              {/* <!-- /testimonial  --> */}
-            </div>
-            {/* <!-- /owl-testimonial  --> */}
-          </div>
-          {/* <!-- /col-md-12  --> */}
-        </div>
+        
         {/* <!-- /container  --> */}
       </section>
       {/* <!-- / Section Ends  --> */}

@@ -10,7 +10,7 @@ function Footer() {
             <div class="col-lg-6">
               <a class="navbar-brand" href="/">
                 <i class="flaticon-dog-20"></i>
-                <span>Woof!</span>
+                <span>Working Dog Club</span>
               </a>
               <p class="mt-3">
                 Cras enim wisi elit aenean, amet eros curabitur. Wisi ad eget
@@ -23,11 +23,11 @@ function Footer() {
                 <i class="fas fa-envelope margin-icon"></i>Contact Us
               </h6>
               <ul class="list-unstyled">
-                <li>+91 9876543210</li>
+                <li>9255555513, 0130 2981622</li>
                 <li>
                   <a href="mailto:dogs@dogsite.com">dogs@dogsite.com</a>
                 </li>
-                <li>Sector-65, Gurgaon </li>
+                <li>Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat </li>
               </ul>
               {/* <!--/ul --> */}
             </div>

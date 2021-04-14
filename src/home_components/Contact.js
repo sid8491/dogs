@@ -108,7 +108,7 @@ function Contact() {
                 {/* <!-- contact-icon info --> */}
                 <div className="contact-icon-info">
                   <h5>Visit our Location</h5>
-                  <p className="h7">Sector-65, Gurgaon</p>
+                  <p className="h7">Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat</p>
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@ function Contact() {
                 {/* <!-- contact-icon info --> */}
                 <div className="contact-icon-info">
                   <h5>Call us today</h5>
-                  <p className="h7">+91 9876543210</p>
+                  <p className="h7">9255555513, 0130 2981622</p>
                 </div>
               </div>
             </div>

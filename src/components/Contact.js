@@ -115,7 +115,7 @@ function Contact() {
                       <a href="mailto:dogs@dogsite.com">dogs@dogsite.com</a>
                     </li>
                     <li class="h7">
-                      <i class="fa fa-phone margin-icon"></i>+91 9876543210
+                      <i class="fa fa-phone margin-icon"></i>9255555513, 0130 2981622
                     </li>
                     <li class="h7">
                       <i class="fa fa-map-marker margin-icon"></i>Sector-65,

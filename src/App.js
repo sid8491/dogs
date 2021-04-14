@@ -7,6 +7,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Gallery from './components/Gallery';
 import Adopt from './components/Adopt';
+import Training from './components/Training';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
             <Route path="/contact" component={Contact} />
             <Route path="/gallery" component={Gallery} />
             <Route path="/adopt" component={Adopt} />
+            <Route path="/training" component={Training} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
         </div>

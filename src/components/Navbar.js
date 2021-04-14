@@ -14,14 +14,14 @@ function Navbar() {
                   {/* <!-- Start Contact Info --> */}
                   <ul className="contact-details float-left">
                     <li>
-                      <i className="fa fa-map-marker"></i>Sector-65, Gurgaon
+                      <i className="fa fa-map-marker"></i>Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat
                     </li>
                     <li>
                       <i className="fa fa-envelope"></i>
                       <a href="mailto:email@site.com">dogs@dogsite.com</a>
                     </li>
                     <li>
-                      <i className="fa fa-phone"></i>+91 9876543210
+                      <i className="fa fa-phone"></i>9255555513, 0130 2981622
                     </li>
                   </ul>
                   {/* <!-- End Contact Info --> */}
@@ -77,9 +77,15 @@ function Navbar() {
               <div className="collapse navbar-collapse" id="navbarResponsive">
                 <ul className="navbar-nav ml-auto">
                   {/* <!-- menu item --> */}
-                  <li className="nav-item active">
+                  <li className="nav-item">
                     <Link className="nav-link" to="/">
                       Home
+                    </Link>
+                  </li>
+                  {/* <!-- menu item --> */}
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/training">
+                      Training
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
