@@ -8,6 +8,8 @@ import Contact from './components/Contact';
 import Gallery from './components/Gallery';
 import Adopt from './components/Adopt';
 import Training from './components/Training';
+import Behaviour from './components/Behaviour';
+import Courses from './components/Courses';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
@@ -24,6 +26,8 @@ function App() {
             <Route path="/gallery" component={Gallery} />
             <Route path="/adopt" component={Adopt} />
             <Route path="/training" component={Training} />
+            <Route path="/behaviour" component={Behaviour} />
+            <Route path="/courses" component={Courses} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
         </div>

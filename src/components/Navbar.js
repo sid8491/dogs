@@ -96,14 +96,20 @@ function Navbar() {
                   </li>
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
-                    <Link className="nav-link" to="/about">
-                      About
+                    <Link className="nav-link" to="/behaviour">
+                      Behaviour
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li className="nav-item dropdown">
-                    <Link className="nav-link" to="/adopt">
-                      Adopt
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/courses">
+                      Courses
+                    </Link>
+                  </li>
+                  {/* <!-- menu item --> */}
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/about">
+                      About
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
@@ -119,7 +125,7 @@ function Navbar() {
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li className="nav-item dropdown">
+                  {/* <li className="nav-item dropdown">
                     <a
                       className="nav-link dropdown-toggle"
                       href="/"
@@ -147,7 +153,7 @@ function Navbar() {
                         Dogs for Films
                       </a>
                     </div>
-                  </li>
+                  </li> */}
                 </ul>
                 {/* <!--/ul --> */}
               </div>

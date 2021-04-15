@@ -385,8 +385,8 @@ function Training() {
           <br />
 
           <div className="container bg-light-custom block-padding border-irregular1">
-            <div className="container block-padding pt-0">
-              <h3 className="text-center">Vehicles</h3>
+            <div className="container block-padding pt-0 dog-bg1">
+              <h3 className="text-center">Vehicles and Food</h3>
               <div className="row">
                 <div className="col-xl-6">
                   <ul className="custom pl-0">
@@ -399,10 +399,6 @@ function Training() {
                       so. You can command the dog to exit with the Heel or with
                       the Free command.
                     </li>
-                  </ul>
-                </div>
-                <div className="col-xl-6">
-                  <ul className="custom pl-0">
                     <li>
                       Your dog will protect your automobile by guarding and can
                       quickly be silenced by giving the Retreat command.
@@ -416,16 +412,6 @@ function Training() {
                     </li>
                   </ul>
                 </div>
-              </div>
-            </div>
-          </div>
-
-          <br />
-
-          <div className="container bg-light-custom block-padding border-irregular2">
-            <div className="container block-padding pt-0">
-              <h3 className="text-center">Food</h3>
-              <div className="row">
                 <div className="col-xl-6">
                   <ul className="custom pl-0">
                     <li>Eat: will not eat until given the command to eat</li>
@@ -435,10 +421,6 @@ function Training() {
                       given to them by strangers, they are specifically taught
                       to despise the smell of antifreeze and rat poison
                     </li>
-                  </ul>
-                </div>
-                <div className="col-xl-6">
-                  <ul className="custom pl-0">
                     <li>Do not eat any food from strangers</li>
                     <li>Do not beg</li>
                     <li>Do not eat food off of the table​</li>
