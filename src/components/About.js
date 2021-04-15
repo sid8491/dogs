@@ -102,7 +102,7 @@ function About() {
                     role="tablist"
                     data-toggle="collapse"
                     data-target="#collapseOne"
-                    aria-expanded="false"
+                    // aria-expanded="false"
                     aria-controls="collapseOne"
                   >
                     <h6 class="mb-0">Our philosophy</h6>
@@ -132,7 +132,7 @@ function About() {
                     role="tablist"
                     data-toggle="collapse"
                     data-target="#collapseTwo"
-                    aria-expanded="false"
+                    // aria-expanded="false"
                     aria-controls="collapseTwo"
                   >
                     <h6 class="mb-0">Why Choose us?</h6>
@@ -162,7 +162,7 @@ function About() {
                     role="tablist"
                     data-toggle="collapse"
                     data-target="#collapseThree"
-                    aria-expanded="false"
+                    // aria-expanded="false"
                     aria-controls="collapseThree"
                   >
                     <h6 class="mb-0">Top quality products</h6>
@@ -292,7 +292,7 @@ function About() {
               <div class="col-xl-6">
                 {/* <!-- embed video --> */}
                 <div class="embed-responsive embed-responsive-4by3">
-                  <iframe
+                  <iframe title="iframe"
                     class="embed-responsive-item"
                     src="https://www.youtube.com/embed/oVCtgAzQ99A"
                     allowfullscreen

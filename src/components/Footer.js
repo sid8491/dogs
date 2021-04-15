@@ -13,8 +13,7 @@ function Footer() {
                 <span>Working Dog Club</span>
               </a>
               <p class="mt-3">
-                Cras enim wisi elit aenean, amet eros curabitur. Wisi ad eget
-                ipsum metus sociis Cras enim wisi elit aenean.
+              The best for your pet!
               </p>
             </div>
             {/* <!--/ col-lg --> */}

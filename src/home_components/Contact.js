@@ -4,7 +4,7 @@ function Contact() {
   return (
     <div>
       {/* <!-- Section Contact  --> */}
-      <section id="contact" className="dog-bg3">
+      <section id="contact" className="dog-bg2">
         <div className="container">
           <div className="section-heading text-center">
             <h2>Contact Us</h2>
@@ -81,7 +81,17 @@ function Contact() {
             </div>
             <div className="col-lg-7">
               {/* <!-- map --> */}
-              <div id="map-canvas" className="mt-3 border-irregular1"></div>
+              {/* <div id="map-canvas" className="mt-3 border-irregular1"></div> */}
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13962.00838009714!2d77.0687012!3d28.9724891!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xba086fb3c026624e!2sFIMS%20Hospital!5e0!3m2!1sen!2sin!4v1618473071370!5m2!1sen!2sin"
+                width="100%"
+                height="100%"
+                // style="border:0;"
+                className="mt-3 border-irregular2"
+                allowfullscreen=""
+                loading="lazy"
+                title="map"
+              ></iframe>
             </div>
             {/* <!-- /col-lg --> */}
           </div>
@@ -108,7 +118,9 @@ function Contact() {
                 {/* <!-- contact-icon info --> */}
                 <div className="contact-icon-info">
                   <h5>Visit our Location</h5>
-                  <p className="h7">Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat</p>
+                  <p className="h7">
+                    Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat
+                  </p>
                 </div>
               </div>
             </div>

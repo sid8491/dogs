@@ -1,36 +1,36 @@
 import React from "react";
-import OwlCarousel from "react-owl-carousel";
+// import OwlCarousel from "react-owl-carousel";
 
-const options = {
-  nav: true,
-  navText: [
-    "<i class='fa fa-chevron-left'></i>",
-    "<i class='fa fa-chevron-right'></i>",
-  ],
-  dots: true,
-  margin: 10,
-  loop: false,
-  autoplay: false,
-  navRewind: true,
-  responsiveClass: true,
-  responsive: {
-    0: {
-      items: 1,
-    },
-    400: {
-      items: 1,
-    },
-    600: {
-      items: 2,
-    },
-    700: {
-      items: 3,
-    },
-    1000: {
-      items: 4,
-    },
-  },
-};
+// const options = {
+//   nav: true,
+//   navText: [
+//     "<i class='fa fa-chevron-left'></i>",
+//     "<i class='fa fa-chevron-right'></i>",
+//   ],
+//   dots: true,
+//   margin: 10,
+//   loop: false,
+//   autoplay: false,
+//   navRewind: true,
+//   responsiveClass: true,
+//   responsive: {
+//     0: {
+//       items: 1,
+//     },
+//     400: {
+//       items: 1,
+//     },
+//     600: {
+//       items: 2,
+//     },
+//     700: {
+//       items: 3,
+//     },
+//     1000: {
+//       items: 4,
+//     },
+//   },
+// };
 
 function Training() {
   return (
@@ -469,11 +469,10 @@ function Training() {
               <h4>Contact us today!</h4>
               <p>
                 <strong>
-                For more information or to speak to our head trainer
+                While we’re good with smoke signals, there are simpler ways for us to get in touch.
                 </strong>
               </p>
               <a className="btn btn-primary" href="/contact">
-                {" "}
                 Contact us
               </a>
             </div>

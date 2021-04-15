@@ -67,28 +67,31 @@ function Services() {
               <div className="col-xl-6">
                 <h3>The best for your pet!</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer volutpat venenatis metus. Duis urna sem, efficitur sit
-                  amet neque ac, suscipit accumsan libero. Ut in ultricies
-                  lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
-                  hendrerit viverra arcu, eget congue est pellentesque vitae.
-                  Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
-                  finibus vitae, egestas id dui.
+                  We, at Working Dogs, take pride in knowing that we offer the
+                  best in trained security patrol dogs and handlers in India.
+                  Our dogs are trained rigorously along with one handler. They
+                  are trained in intruder scent determination from upto a mile
+                  away and will alert the security guard of the direction of the
+                  intruder. All of our K9’s have undergone extensive training in
+                  real world scenarios & situations to ensure they subdue any
+                  threat they might come across. Along with this, they are more
+                  than capable of dealing with crowd control and intruders with
+                  weapons and even against gun fire. Rest assured, our K9 and
+                  handler will secure your property or business, efficiently and
+                  tirelessly. Cost of our fully trained K9 Handler and K9 start
+                  from INR 45,000 per month.
                 </p>
                 <p>
-                  <strong>
-                    Etiam rhoncus leo a dolor placerat, nec elementum ipsum
-                    convall Maecenas at arcu risus scelerisque laoree.
-                  </strong>
+                  <strong>Benefits of a Security Dog & Handler</strong>
                 </p>
                 {/* <!-- ul custom--> */}
                 <ul className="custom pl-0">
-                  <li>Aliquam erat volut pat.</li>
+                  <li>Can sense intruders over a mile away</li>
+                  <li>Capable of holding off upto 15 attackers </li>
                   <li>
-                    Ibu lum orci eget, viverra elit liquam erat volut pat phas
-                    ellus ac.
+                    Trained to fight through gun fire and other deterrents{" "}
                   </li>
-                  <li>Aliquam erat volut pat phas ellu</li>
+                  <li>As effective and efficient as 5 security guards</li>
                 </ul>
               </div>
               {/* <!-- /col-xl--> */}
@@ -122,13 +125,10 @@ function Services() {
                     <div className="service-content">
                       <h6>Fun Activities</h6>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Integer dictum malesuada.
+                        The dogs that we train are fun loving, obedient and
+                        playful in nature
                       </p>
-                      <a
-                        className="btn btn-primary"
-                        href="/services"
-                      >
+                      <a className="btn btn-primary" href="/services">
                         read more
                       </a>
                     </div>
@@ -144,15 +144,12 @@ function Services() {
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Pet Hotel</h6>
+                      <h6>Socialization</h6>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Integer dictum malesuada.
+                        The dog will spend time with childresn, ignore other
+                        dogs/cats, and visit zoo
                       </p>
-                      <a
-                        className="btn btn-primary"
-                        href="/services"
-                      >
+                      <a className="btn btn-primary" href="/services">
                         read more
                       </a>
                     </div>
@@ -168,15 +165,12 @@ function Services() {
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Veterinary 24/7</h6>
+                      <h6>Obedience</h6>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Integer dictum malesuada.
+                        We train the pets to obey a variety of commands to make
+                        the pet helpful
                       </p>
-                      <a
-                        className="btn btn-primary"
-                        href="/services"
-                      >
+                      <a className="btn btn-primary" href="/services">
                         read more
                       </a>
                     </div>
@@ -194,13 +188,10 @@ function Services() {
                     <div className="service-content">
                       <h6>Training</h6>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Integer dictum malesuada.
+                        Our dogs are trained rigorously to be fearsome defender
+                        of your family's lives
                       </p>
-                      <a
-                        className="btn btn-primary"
-                        href="/services"
-                      >
+                      <a className="btn btn-primary" href="/services">
                         read more
                       </a>
                     </div>
@@ -210,6 +201,44 @@ function Services() {
             </div>
           </div>
           {/* end new service carasoul */}
+        </div>
+        <br />
+        <div className="container bg-light-custom block-padding border-irregular1 dog-bg3">
+          <div className="container block-padding pt-0">
+            <p>
+              <h3 className="text-center">Sichehreit K9 Mobile Patrol</h3>
+            </p>
+            <p>
+              The core of our business is providing K9 support units and dog
+              handler response units to our clients in India. We have
+              experienced staff which have undergone extensive training with
+              their K9 partners to ensure high quality services to our clients.
+              Our K9 response handlers are ready for dispatch 24 hours a day. We
+              operate for both residential and commercial clients.{" "}
+            </p>
+            <p>
+              <h3 className="text-center">Event Security</h3>
+            </p>
+            <p>
+              Sicherheit Security have years of experience in planning and
+              management in event security We can support & provide the
+              following:
+              <ul className="custom pl-0">
+                <li>Door Supervisors</li>
+                <li>High Profile Personnel Security</li>
+                <li>Access Control</li>
+                <li>Crowd Control & Monitoring</li>
+                <li>K9 drug and bomb detection</li>
+              </ul>
+            </p>
+            <p>
+              Our courses follow the NASDU (National association of security dog
+              users) training coursework and practical assessments. We equip our
+              students with the skills, knowledge and understanding to enable
+              not only the safe handling of a working dog, but also how to
+              extract the most benefit out of using a security or service K9.
+            </p>
+          </div>
         </div>
         {/* <!--/ container --> */}
         <div className="container bottom-block-padding">

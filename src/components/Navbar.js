@@ -57,8 +57,8 @@ function Navbar() {
             <div className="container ">
               {/* <!-- logo --> */}
               <a className="navbar-brand" href="/">
-                <i className="flaticon-dog-20"></i>
-                <span>Woof!</span>
+                {/* <i className="flaticon-dog-20"></i> */}
+                <span><img src="Royal logo-03.png" height="90" width="152" alt="logo"></img></span>
               </a>
               {/* <!-- Navbartoggler --> */}
               <button
@@ -125,7 +125,7 @@ function Navbar() {
                       href="/"
                       id="others-dropdown"
                       data-toggle="dropdown"
-                      aria-haspopup="true"
+                      // aria-haspopup="true"
                       aria-expanded="false"
                     >
                       Other pages

@@ -134,7 +134,18 @@ function Contact() {
         </div>
         {/* <!-- /container --> */}
         {/* <!-- map--> */}
-        <div id="map-canvas" class="mt-5" data-aos="fade-down"></div>
+        {/* <div id="map-canvas" class="mt-5" data-aos="fade-down"></div> */}
+        <iframe
+                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13962.00838009714!2d77.0687012!3d28.9724891!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xba086fb3c026624e!2sFIMS%20Hospital!5e0!3m2!1sen!2sin!4v1618473071370!5m2!1sen!2sin"
+                width="100%"
+                height="600"
+                // style="border:0;"
+                className="mt-5 border-irregular1"
+                allowfullscreen=""
+                loading="lazy"
+                data-aos="fade-down"
+                title="map"
+              ></iframe>
       </div>
       {/* <!-- /page --> */}
     </div>
