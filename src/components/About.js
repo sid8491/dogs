@@ -115,11 +115,17 @@ function About() {
                   >
                     <div class="card-body">
                       <p>
-                        Aliquam erat volutpat In id fermentum augue, ut
-                        pellentesque leo. Maecenas at arcu risus. Donec commodo
-                        sodales ex, scelerisque laoreet nibh hendrerit id. In
-                        aliquet magna nec lobortis maximus. Etiam rhoncus leo a
-                        dolor placerat, nec elementum ipsum convall.
+                        Just like you, we consider our pets family and would do
+                        anything for them. In fact, a shared love for dogs is
+                        what propelled our founders, to launch a center, which
+                        provided all services at a single place. We know how
+                        hard it is to leave your pet in another’s care. That’s
+                        why we built Working Dogs Club on a foundation of trust and
+                        honesty, above all else. This begins with our team. We
+                        carefully vet each of our team members with thorough
+                        background checks, require at least one year of prior
+                        pet care experience, and complete a thorough training
+                        process along with bi-annual continuing education.
                       </p>
                     </div>
                   </div>
@@ -145,11 +151,11 @@ function About() {
                   >
                     <div class="card-body">
                       <p>
-                        Aliquam erat volutpat In id fermentum augue, ut
-                        pellentesque leo. Maecenas at arcu risus. Donec commodo
-                        sodales ex, scelerisque laoreet nibh hendrerit id. In
-                        aliquet magna nec lobortis maximus. Etiam rhoncus leo a
-                        dolor placerat, nec elementum ipsum convall.
+                        Your furry friend will always get his or her own
+                        dedicated specialist, as we believe consistency is
+                        crucial to a pet’s well being. We are a team of animal
+                        lovers dedicated to providing reliable, convenient and
+                        easily accessible pet care services.
                       </p>
                     </div>
                   </div>
@@ -175,11 +181,8 @@ function About() {
                   >
                     <div class="card-body">
                       <p>
-                        Aliquam erat volutpat In id fermentum augue, ut
-                        pellentesque leo. Maecenas at arcu risus. Donec commodo
-                        sodales ex, scelerisque laoreet nibh hendrerit id. In
-                        aliquet magna nec lobortis maximus. Etiam rhoncus leo a
-                        dolor placerat, nec elementum ipsum convall.
+                        We at working Dogs Clubs provide best in class products
+                        for the care of your pets.
                       </p>
                     </div>
                   </div>
@@ -192,7 +195,7 @@ function About() {
           {/* <!-- /row --> */}
         </div>
         {/* <!-- /container --> */}
-       
+
         {/* <!--/call-to-action --> */}
         <div class="container bottom-block-padding">
           <div class="bg-light-custom card">
@@ -226,7 +229,8 @@ function About() {
               <div class="col-xl-6">
                 {/* <!-- embed video --> */}
                 <div class="embed-responsive embed-responsive-4by3">
-                  <iframe title="iframe"
+                  <iframe
+                    title="iframe"
                     class="embed-responsive-item"
                     src="https://www.youtube.com/embed/oVCtgAzQ99A"
                     allowfullscreen

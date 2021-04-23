@@ -84,14 +84,14 @@ function Navbar() {
                   </li>
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
-                    <Link className="nav-link" to="/training">
-                      Training
+                    <Link className="nav-link" to="/services">
+                      Services
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
-                    <Link className="nav-link" to="/services">
-                      Services
+                    <Link className="nav-link" to="/training">
+                      Training
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
@@ -103,7 +103,7 @@ function Navbar() {
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
                     <Link className="nav-link" to="/courses">
-                      Courses
+                      K9 Security
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}

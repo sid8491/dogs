@@ -18,10 +18,7 @@ function Blurb() {
             <div className="col-xl-4" data-aos="fade-down">
               <h2 className="res-margin">Join our club</h2>
               <p className="featured-text">
-                Maecenas at arcu risus. Donec commodo sodales ex, scelerisque
-                laoreet nibh hendrerit id. In aliquet magna nec lobortis
-                maximus. Etiam rhoncus leo a dolor placerat, nec elementum
-                ipsum.
+              Providing Boarding & Day Care, Pet Spa & Grooming, Training (Basic and Advance Obedience), Vet Services and Toys, Accessories for your pets. You name it, we got it!
               </p>
               {/* <!-- button  --> */}
               <a href="/contact" className="btn btn-primary">

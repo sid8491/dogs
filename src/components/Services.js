@@ -67,31 +67,29 @@ function Services() {
               <div className="col-xl-6">
                 <h3>The best for your pet!</h3>
                 <p>
-                  We, at Working Dogs, take pride in knowing that we offer the
-                  best in trained security patrol dogs and handlers in India.
-                  Our dogs are trained rigorously along with one handler. They
-                  are trained in intruder scent determination from upto a mile
-                  away and will alert the security guard of the direction of the
-                  intruder. All of our K9’s have undergone extensive training in
-                  real world scenarios & situations to ensure they subdue any
-                  threat they might come across. Along with this, they are more
-                  than capable of dealing with crowd control and intruders with
-                  weapons and even against gun fire. Rest assured, our K9 and
-                  handler will secure your property or business, efficiently and
-                  tirelessly. Cost of our fully trained K9 Handler and K9 start
-                  from INR 45,000 per month.
+                  Just like you, we consider our pets family and would do
+                  anything for them. In fact, a shared love for dogs is what
+                  propelled our founders, to launch a center, which provided all
+                  services at a single place. We know how hard it is to leave
+                  your pet in another’s care. That’s why we built Working Dogs Club on
+                  a foundation of trust and honesty, above all else. This begins
+                  with our team. We carefully vet each of our team members with
+                  thorough background checks, require at least one year of prior
+                  pet care experience, and complete a thorough training process
+                  along with bi-annual continuing education. Your furry friend
+                  will always get his or her own dedicated specialist, as we
+                  believe consistency is crucial to a pet’s well being. We’re a
+                  team of pet lovers dedicated to providing reliable, convenient
+                  and easily accessible pet care services.
                 </p>
                 <p>
-                  <strong>Benefits of a Security Dog & Handler</strong>
+                  <strong>Services provided by Working Dogs Club</strong>
                 </p>
                 {/* <!-- ul custom--> */}
                 <ul className="custom pl-0">
-                  <li>Can sense intruders over a mile away</li>
-                  <li>Capable of holding off upto 15 attackers </li>
-                  <li>
-                    Trained to fight through gun fire and other deterrents{" "}
-                  </li>
-                  <li>As effective and efficient as 5 security guards</li>
+                  <li>Pet Spa & Grooming</li>
+                  <li>Training (Basic & Advance Obedience)</li>
+                  <li>Boarding & Day Care</li>
                 </ul>
               </div>
               {/* <!-- /col-xl--> */}
@@ -206,38 +204,116 @@ function Services() {
         <div className="container bg-light-custom block-padding border-irregular1 dog-bg3">
           <div className="container block-padding pt-0">
             <p>
-              <h3 className="text-center">Sichehreit K9 Mobile Patrol</h3>
+              <h3 className="text-center">Pet Spa & Grooming</h3>
             </p>
             <p>
-              The core of our business is providing K9 support units and dog
-              handler response units to our clients in India. We have
-              experienced staff which have undergone extensive training with
-              their K9 partners to ensure high quality services to our clients.
-              Our K9 response handlers are ready for dispatch 24 hours a day. We
-              operate for both residential and commercial clients.{" "}
+              We know your dog is a part of your family and you want him/her to
+              look clean, comfortable and smell nice. At Working Dogs Club, Gurgaon, we
+              strive to make sure your pet is comfortable and happy, we want
+              your pet to enjoy the grooming process as much as they can and
+              look forward to its’ next visit.
             </p>
             <p>
-              <h3 className="text-center">Event Security</h3>
+              A puppy’s first grooming session should be a relaxing and pleasant
+              experience. This session is mainly to familiarize your puppy with
+              the basics of the grooming process. It helps to create a positive
+              grooming experience for your dog which will result in a pet that
+              absolutely adores grooming in the future.
             </p>
             <p>
-              Sicherheit Security have years of experience in planning and
-              management in event security We can support & provide the
-              following:
-              <ul className="custom pl-0">
-                <li>Door Supervisors</li>
-                <li>High Profile Personnel Security</li>
-                <li>Access Control</li>
-                <li>Crowd Control & Monitoring</li>
-                <li>K9 drug and bomb detection</li>
+              <strong>Pet Spa & Grooming Services Includes:</strong>
+              <ul className="custom pl-0 col-6">
+                <li>Nail Trimming</li>
+                <li>Ear Cleaning</li>
+                <li>Pet Bathing</li>
+                <li>Normal Bath</li>
+                <li>Herbal Bath</li>
+                <li>Anti Tick Bath</li>
+                <li>Skin & Hair Bathing</li>
+                <li>Hair Cutting</li>
+                <li>Summer Hair Cut</li>
+                <li>Hygience Hair Cut</li>
+                <li>Facial Hair Cut</li>
               </ul>
             </p>
+          </div>
+        </div>
+        <br />
+        <div className="container bg-light-custom block-padding border-irregular1 dog-bg1">
+          <div className="container block-padding pt-0">
             <p>
-              Our courses follow the NASDU (National association of security dog
-              users) training coursework and practical assessments. We equip our
-              students with the skills, knowledge and understanding to enable
-              not only the safe handling of a working dog, but also how to
-              extract the most benefit out of using a security or service K9.
+              <h3 className="text-center">
+                Training (Basic & Advance Obedience)
+              </h3>
             </p>
+            <p>
+              Whether you are looking for basic dog sitting lessons or advance
+              obedience classes, Working Dogs Club Gurgaon has it all. We train your
+              dog using various learning options because we understand that
+              everyone dog has different learning needs and a one size fits all
+              approach to dog training is not to the best interest of the dog
+              owning.
+            </p>
+            <p>
+              To give you peace of mind that you are in the hands of competent
+              dog trainers, at Working Dogs Club, Gurgaon, we will only allow the best
+              dog trainers to train and guide you and your dog.
+            </p>
+            <strong>Dog training lessons provided at Working Dogs Club</strong>
+            <ul className="custom pl-0">
+              <li>Dog Obedience Classes</li>
+              <li>Puppy Training Classes</li>
+              <li>Dog Behaviour Handling</li>
+              <li>Dog Agility Classes</li>
+              <li>Dog Security Training</li>
+            </ul>
+
+            <p>
+              Based on several factors, such as age, breed, previous experiences
+              and current behavior, trainers at Working Dogs Club, will be able to
+              suggest the appropriate form and duration of training for your
+              pet.
+            </p>
+            <p>
+              Our trainers communicate openly and frequently with your pets to
+              establish a rapport with them and create a conducive environment
+              for learning. Your pet will also get an opportunity to socialize
+              and mingle with other dogs. We train pets with consistency,
+              patience, and positive reinforcement.
+            </p>
+          </div>
+        </div>
+        <br />
+        <div className="container bg-light-custom block-padding border-irregular1 dog-bg2">
+          <div className="container block-padding pt-0">
+            <h3 className="text-center">Boarding & Day Care</h3>
+            <p>
+              When you need to go on any of your vacations, or maybe a short
+              holiday on a long weekend, or have to attend any wedding of a
+              relative or friends. Working Dogs Club comes to your rescue, we take care
+              of your pet as one of our own. Leave your worries aside. You and
+              your pet will fall in love with our facilities. We have highly
+              trained staff to take care of your little pet. You can see their
+              resting area, play area and also get to know the staff who will
+              take care of them while you’re away.
+            </p>
+            <p>
+              Working Dogs Club premises are cleaned every few hours to maintain
+              hygiene, it’s completely safe, friendly for pets as well as lots
+              of fun activities for Pets to do, while they are at Buddying Pets,
+              we make your pets stay very enjoyable, with us. We understand that
+              your pet may be anxious without you. Our pet-friendly staff
+              actively socializes and put him/her at ease. The feeding time and
+              diet are administered as per your instructions. Playtime, exercise
+              time and feeding time are supervised for engagement.
+            </p>
+            <strong>Benefits of Day Care & Boarding With Working Dogs Club:</strong>
+            <ul className="custom pl-0">
+              <li>24-hour team of dog lovers</li>
+              <li>Ready availability of Vet for care as required</li>
+              <li>Regular Updates of Your Pet</li>
+              <li>Pampering under specialized packages</li>
+            </ul>
           </div>
         </div>
         {/* <!--/ container --> */}
@@ -255,18 +331,10 @@ function Services() {
             {/* <!--/ col-lg --> */}
             <div className="col-lg-7">
               <h4>Contact us today!</h4>
+              <strong>
+              While we’re good with smoke signals, there are simpler ways for us to get in touch.
+              </strong>
               <p>
-                {" "}
-                Maecenas at arcu risus. Donec commodo sodales, scelerisque
-                laoreet nibh hendrerit id. In aliquet magna nec lobortis
-                maximus. Etiam rhoncus leo a dolor placerat, nec elementum ipsum
-                convall.
-              </p>
-              <p>
-                <strong>
-                  Etiam rhoncus leo a dolor placerat, nec elementum ipsum
-                  convall Maecenas at arcu risus scelerisque laoree.
-                </strong>
               </p>
               <a className="btn btn-primary" href="/contact">
                 {" "}

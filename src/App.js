@@ -11,11 +11,13 @@ import Training from './components/Training';
 import Behaviour from './components/Behaviour';
 import Courses from './components/Courses';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import ScrollToTop from './components/ScrollToTop';
 
 function App() {
   return (
     <div className="App">
       <Router>
+        <ScrollToTop />
         <Navbar />
         <div className="App vh-100">
           <Switch>
@@ -27,6 +29,7 @@ function App() {
             <Route path="/adopt" component={Adopt} />
             <Route path="/training" component={Training} />
             <Route path="/behaviour" component={Behaviour} />
+            <Route path="/courses" component={Courses} />
             <Route path="/courses" component={Courses} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
