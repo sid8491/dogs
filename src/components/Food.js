@@ -35,7 +35,7 @@ function Food() {
               <div className="col-xl-6">
                 <h3>Food & Supplements</h3>
                 <p>
-                  At Buddy Pets, we offer an array of dog food products,
+                  At Working Dogs Club, we offer an array of dog food products,
                   specially formulated to meet your dog’s unique needs. Whether
                   you have a puppy, adult or senior dog, you want to avoid
                   grains or you prefer a natural dog food, we have something for

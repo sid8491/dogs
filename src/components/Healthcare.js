@@ -53,7 +53,7 @@ function Healthcare() {
                 </p>
                 <p>
                   You may be a new pet owner or you may have shared a lot in
-                  life with your canine pet. Vets at Buddy Pets, Gurgoan are
+                  life with your canine pet. Vets at Working Dogs Club, Gurgoan are
                   your partner to keep your pet healthy and well. To enable them
                   to do this, they need to know your dog better and see him
                   regularly. Such visits will help them to recognize if
@@ -69,7 +69,7 @@ function Healthcare() {
                   <ul className="custom pl-0">
                     <li>Detecting disease early on</li>
                     <li>
-                      Vets at Buddy Pets can put together a preventive health
+                      Vets at Working Dogs Club can put together a preventive health
                       plan for your dog which would include a plan for vaccines,
                       covering all essential requirements, making sure what
                       products are best for controlling fleas and intestinal
