@@ -1909,7 +1909,7 @@ ul.custom li:before {
     margin-top: 20px;
   }
   .navbar {
-    padding: 20px;
+    padding: 0px;
   }
   .dropdown-item,
   .navbar-nav .nav-link {
