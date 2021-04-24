@@ -34,7 +34,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular1"
                   src="assets/img/gallery/gallery (1).jpg"
                   alt=""
                 />
@@ -50,7 +50,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular2"
                   src="assets/img/gallery/gallery (2).jpg"
                   alt=""
                 />
@@ -66,7 +66,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular1"
                   src="assets/img/gallery/gallery (3).jpg"
                   alt=""
                 />
@@ -82,7 +82,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular2"
                   src="assets/img/gallery/gallery (4).jpg"
                   alt=""
                 />
@@ -98,7 +98,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular1"
                   src="assets/img/gallery/gallery (5).jpg"
                   alt=""
                 />
@@ -114,7 +114,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular2"
                   src="assets/img/gallery/gallery (6).jpg"
                   alt=""
                 />
@@ -130,7 +130,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular1"
                   src="assets/img/gallery/gallery (7).jpg"
                   alt=""
                 />
@@ -146,7 +146,7 @@ function Gallery() {
             <div className="dogscats col-lg-3 col-sm-6 col-md-6 mt-3">
               <div className="gallery-thumb">
                 <img
-                  className="img-fluid"
+                  className="img-fluid border-irregular2"
                   src="assets/img/gallery/gallery (8).jpg"
                   alt=""
                 />

@@ -14,7 +14,8 @@ function Navbar() {
                   {/* <!-- Start Contact Info --> */}
                   <ul className="contact-details float-left">
                     <li>
-                      <i className="fa fa-map-marker"></i>Opp FIMS HOSPITAL Delhi Bhalgarh Road Sonipat
+                      <i className="fa fa-map-marker"></i>Opp FIMS HOSPITAL
+                      Delhi Bhalgarh Road Sonipat
                     </li>
                     <li>
                       <i className="fa fa-envelope"></i>
@@ -54,11 +55,18 @@ function Navbar() {
           {/* <!-- End Top bar --> */}
           {/* <!-- Navbar Starts --> */}
           <div className="navbar container-fluid">
-            <div className="container ">
+            <div className="container-fluid ">
               {/* <!-- logo --> */}
               <a className="navbar-brand" href="/">
                 {/* <i className="flaticon-dog-20"></i> */}
-                <span><img src="Royal logo-03.png" height="90" width="152" alt="logo"></img></span>
+                <span>
+                  <img
+                    src="Royal logo-03.png"
+                    height="90"
+                    width="100"
+                    alt="logo"
+                  ></img>
+                </span>
               </a>
               {/* <!-- Navbartoggler --> */}
               <button
@@ -90,14 +98,14 @@ function Navbar() {
                   </li>
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
-                    <Link className="nav-link" to="/training">
-                      Training
+                    <Link className="nav-link" to="/food">
+                      Food, Toys & Accessories
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
                   <li className="nav-item">
-                    <Link className="nav-link" to="/behaviour">
-                      Behaviour
+                    <Link className="nav-link" to="/healthcare">
+                      Healthcare
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}

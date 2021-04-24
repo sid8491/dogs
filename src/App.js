@@ -10,6 +10,8 @@ import Adopt from './components/Adopt';
 import Training from './components/Training';
 import Behaviour from './components/Behaviour';
 import Courses from './components/Courses';
+import Food from './components/Food';
+import Healthcare from './components/Healthcare';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ScrollToTop from './components/ScrollToTop';
 
@@ -30,7 +32,8 @@ function App() {
             <Route path="/training" component={Training} />
             <Route path="/behaviour" component={Behaviour} />
             <Route path="/courses" component={Courses} />
-            <Route path="/courses" component={Courses} />
+            <Route path="/food" component={Food} />
+            <Route path="/healthcare" component={Healthcare} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
         </div>

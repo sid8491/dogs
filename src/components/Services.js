@@ -27,7 +27,7 @@ const options = {
       items: 3,
     },
     1000: {
-      items: 4,
+      items: 3,
     },
   },
 };
@@ -71,16 +71,16 @@ function Services() {
                   anything for them. In fact, a shared love for dogs is what
                   propelled our founders, to launch a center, which provided all
                   services at a single place. We know how hard it is to leave
-                  your pet in another’s care. That’s why we built Working Dogs Club on
-                  a foundation of trust and honesty, above all else. This begins
-                  with our team. We carefully vet each of our team members with
-                  thorough background checks, require at least one year of prior
-                  pet care experience, and complete a thorough training process
-                  along with bi-annual continuing education. Your furry friend
-                  will always get his or her own dedicated specialist, as we
-                  believe consistency is crucial to a pet’s well being. We’re a
-                  team of pet lovers dedicated to providing reliable, convenient
-                  and easily accessible pet care services.
+                  your pet in another’s care. That’s why we built Working Dogs
+                  Club on a foundation of trust and honesty, above all else.
+                  This begins with our team. We carefully vet each of our team
+                  members with thorough background checks, require at least one
+                  year of prior pet care experience, and complete a thorough
+                  training process along with bi-annual continuing education.
+                  Your furry friend will always get his or her own dedicated
+                  specialist, as we believe consistency is crucial to a pet’s
+                  well being. We’re a team of pet lovers dedicated to providing
+                  reliable, convenient and easily accessible pet care services.
                 </p>
                 <p>
                   <strong>Services provided by Working Dogs Club</strong>
@@ -117,14 +117,16 @@ function Services() {
                   <div className="serviceBox">
                     {/* <!-- service icon --> */}
                     <div className="service-icon">
-                      <i className="flaticon-people-1"></i>
+                      <i className="flaticon-pet-shelter"></i>
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Fun Activities</h6>
+                      <h6>PET GROOMING SERVICES</h6>
                       <p>
-                        The dogs that we train are fun loving, obedient and
-                        playful in nature
+                        We strive to make sure your pet is comfortable and happy
+                        while grooming process, we want your pet to enjoy the
+                        grooming process as much as they can and look forward to
+                        its’ next visit
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
@@ -138,14 +140,16 @@ function Services() {
                   <div className="serviceBox">
                     {/* <!-- service icon --> */}
                     <div className="service-icon">
-                      <i className="flaticon-pet-shelter"></i>
+                      <i className="flaticon-people-1"></i>
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Socialization</h6>
+                      <h6>PET BOARDING & DAY CARE</h6>
                       <p>
-                        The dog will spend time with childresn, ignore other
-                        dogs/cats, and visit zoo
+                        Leave your worries aside. You and your pet will fall in
+                        love with our facilities. We have highly trained staff
+                        to take care of your little pet, we take care of your
+                        pet, while you’re away
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
@@ -154,26 +158,6 @@ function Services() {
                   </div>
                 </div>
                 {/* </div> */}
-                {/* <!-- service 4 --> */}
-                <div className="col-md-12">
-                  <div className="serviceBox">
-                    {/* <!-- service icon --> */}
-                    <div className="service-icon">
-                      <i className="flaticon-dog-with-first-aid-kit-bag"></i>
-                    </div>
-                    {/* <!-- service content --> */}
-                    <div className="service-content">
-                      <h6>Obedience</h6>
-                      <p>
-                        We train the pets to obey a variety of commands to make
-                        the pet helpful
-                      </p>
-                      <a className="btn btn-primary" href="/services">
-                        read more
-                      </a>
-                    </div>
-                  </div>
-                </div>
 
                 {/* <!-- service 6 --> */}
                 <div className="col-md-12">
@@ -184,10 +168,12 @@ function Services() {
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Training</h6>
+                      <h6>PET TRAINING</h6>
                       <p>
-                        Our dogs are trained rigorously to be fearsome defender
-                        of your family's lives
+                        We are having years of experience in professional level
+                        Dog training, best in class, capable to train your PET
+                        from basic training to advance obedience to make him
+                        well trained
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
@@ -208,10 +194,10 @@ function Services() {
             </p>
             <p>
               We know your dog is a part of your family and you want him/her to
-              look clean, comfortable and smell nice. At Working Dogs Club, Gurgaon, we
-              strive to make sure your pet is comfortable and happy, we want
-              your pet to enjoy the grooming process as much as they can and
-              look forward to its’ next visit.
+              look clean, comfortable and smell nice. At Working Dogs Club,
+              Gurgaon, we strive to make sure your pet is comfortable and happy,
+              we want your pet to enjoy the grooming process as much as they can
+              and look forward to its’ next visit.
             </p>
             <p>
               A puppy’s first grooming session should be a relaxing and pleasant
@@ -248,16 +234,16 @@ function Services() {
             </p>
             <p>
               Whether you are looking for basic dog sitting lessons or advance
-              obedience classes, Working Dogs Club Gurgaon has it all. We train your
-              dog using various learning options because we understand that
+              obedience classes, Working Dogs Club Gurgaon has it all. We train
+              your dog using various learning options because we understand that
               everyone dog has different learning needs and a one size fits all
               approach to dog training is not to the best interest of the dog
               owning.
             </p>
             <p>
               To give you peace of mind that you are in the hands of competent
-              dog trainers, at Working Dogs Club, Gurgaon, we will only allow the best
-              dog trainers to train and guide you and your dog.
+              dog trainers, at Working Dogs Club, Gurgaon, we will only allow
+              the best dog trainers to train and guide you and your dog.
             </p>
             <strong>Dog training lessons provided at Working Dogs Club</strong>
             <ul className="custom pl-0">
@@ -270,8 +256,8 @@ function Services() {
 
             <p>
               Based on several factors, such as age, breed, previous experiences
-              and current behavior, trainers at Working Dogs Club, will be able to
-              suggest the appropriate form and duration of training for your
+              and current behavior, trainers at Working Dogs Club, will be able
+              to suggest the appropriate form and duration of training for your
               pet.
             </p>
             <p>
@@ -290,12 +276,12 @@ function Services() {
             <p>
               When you need to go on any of your vacations, or maybe a short
               holiday on a long weekend, or have to attend any wedding of a
-              relative or friends. Working Dogs Club comes to your rescue, we take care
-              of your pet as one of our own. Leave your worries aside. You and
-              your pet will fall in love with our facilities. We have highly
-              trained staff to take care of your little pet. You can see their
-              resting area, play area and also get to know the staff who will
-              take care of them while you’re away.
+              relative or friends. Working Dogs Club comes to your rescue, we
+              take care of your pet as one of our own. Leave your worries aside.
+              You and your pet will fall in love with our facilities. We have
+              highly trained staff to take care of your little pet. You can see
+              their resting area, play area and also get to know the staff who
+              will take care of them while you’re away.
             </p>
             <p>
               Working Dogs Club premises are cleaned every few hours to maintain
@@ -307,7 +293,9 @@ function Services() {
               diet are administered as per your instructions. Playtime, exercise
               time and feeding time are supervised for engagement.
             </p>
-            <strong>Benefits of Day Care & Boarding With Working Dogs Club:</strong>
+            <strong>
+              Benefits of Day Care & Boarding With Working Dogs Club:
+            </strong>
             <ul className="custom pl-0">
               <li>24-hour team of dog lovers</li>
               <li>Ready availability of Vet for care as required</li>
@@ -332,10 +320,10 @@ function Services() {
             <div className="col-lg-7">
               <h4>Contact us today!</h4>
               <strong>
-              While we’re good with smoke signals, there are simpler ways for us to get in touch.
+                While we’re good with smoke signals, there are simpler ways for
+                us to get in touch.
               </strong>
-              <p>
-              </p>
+              <p></p>
               <a className="btn btn-primary" href="/contact">
                 {" "}
                 Contact us

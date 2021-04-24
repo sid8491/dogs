@@ -27,7 +27,7 @@ const options = {
       items: 3,
     },
     1000: {
-      items: 4,
+      items: 3,
     },
   },
 };
@@ -47,13 +47,11 @@ function OurServices() {
               <div className="col-xl-6">
                 <h4>So you want to own a personal or family protection dog?</h4>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer volutpat venenatis metus. Duis urna sem, efficitur sit
-                  amet neque ac, suscipit accumsan libero. Ut in ultricies
-                  lorem. Nam ac ipsum velit. Aenean id nunc lectus. Sed
-                  hendrerit viverra arcu, eget congue est pellentesque vitae.
-                  Vestibulum eu orci ante. Nulla neque tellus, imperdiet vitae
-                  finibus vitae, egestas id dui.
+                  Getting a dog for the first time is a big adventure and a big
+                  challenge at the same time. Remember, a pet is a long-term
+                  commitment. Depending on what kind of dog breed you choose,
+                  you’re looking at anywhere between 10 to 20 years of being a
+                  pet owner.
                 </p>
                 <p>
                   <strong>
@@ -135,13 +133,16 @@ function OurServices() {
                   <div className="serviceBox">
                     {/* <!-- service icon --> */}
                     <div className="service-icon">
-                      <i className="flaticon-people-1"></i>
+                      <i className="flaticon-pet-shelter"></i>
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Fun Activities</h6>
+                      <h6>PET GROOMING SERVICES</h6>
                       <p>
-                        The dogs that we train are fun loving, obedient and playful in nature
+                        We strive to make sure your pet is comfortable and happy
+                        while grooming process, we want your pet to enjoy the
+                        grooming process as much as they can and look forward to
+                        its’ next visit
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
@@ -155,13 +156,16 @@ function OurServices() {
                   <div className="serviceBox">
                     {/* <!-- service icon --> */}
                     <div className="service-icon">
-                      <i className="flaticon-pet-shelter"></i>
+                      <i className="flaticon-people-1"></i>
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Socialization</h6>
+                      <h6>PET BOARDING & DAY CARE</h6>
                       <p>
-                        The dog will spend time with childresn, ignore other dogs/cats, and visit zoo
+                        Leave your worries aside. You and your pet will fall in
+                        love with our facilities. We have highly trained staff
+                        to take care of your little pet, we take care of your
+                        pet, while you’re away
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
@@ -170,25 +174,7 @@ function OurServices() {
                   </div>
                 </div>
                 {/* </div> */}
-                {/* <!-- service 4 --> */}
-                <div className="col-md-12">
-                  <div className="serviceBox">
-                    {/* <!-- service icon --> */}
-                    <div className="service-icon">
-                      <i className="flaticon-dog-with-first-aid-kit-bag"></i>
-                    </div>
-                    {/* <!-- service content --> */}
-                    <div className="service-content">
-                      <h6>Obedience</h6>
-                      <p>
-                        We train the pets to obey a variety of commands to make the pet helpful
-                      </p>
-                      <a className="btn btn-primary" href="/services">
-                        read more
-                      </a>
-                    </div>
-                  </div>
-                </div>
+
 
                 {/* <!-- service 6 --> */}
                 <div className="col-md-12">
@@ -199,9 +185,11 @@ function OurServices() {
                     </div>
                     {/* <!-- service content --> */}
                     <div className="service-content">
-                      <h6>Training</h6>
+                      <h6>PET TRAINING</h6>
                       <p>
-                      Our dogs are trained rigorously to be fearsome defender of your family's lives
+                        We are having years of experience in professional level
+                        Dog training, best in class, capable to train your PET from basic
+                        training to advance obedience to make him well trained
                       </p>
                       <a className="btn btn-primary" href="/services">
                         read more
