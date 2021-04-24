@@ -140,7 +140,7 @@ function Contact() {
                 width="100%"
                 height="600"
                 // style="border:0;"
-                className="mt-5 border-irregular1"
+                className="mt-5"
                 allowfullscreen=""
                 loading="lazy"
                 data-aos="fade-down"
