@@ -2,7 +2,7 @@ import React from "react";
 
 function Gallery() {
   return (
-    <div>
+    <div style={{backgroundColor: "#f4f4f4"}}>
       {/*  {/* <!-- Jumbotron --> */}
       <div class="jumbotron jumbotron-fluid overlay">
         <div class="jumbo-heading">
