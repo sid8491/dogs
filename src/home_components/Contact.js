@@ -146,23 +146,18 @@ function Contact() {
                   <h5>Follow us on Social Media</h5>
                   <ul className="social-media">
                     <li>
-                      <a href="/">
+                      <a href="https://www.facebook.com/profile.php?id=100070414099420">
                         <i className="fab fa-facebook-square"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="/">
+                      <a href="https://www.instagram.com/workingdogclub2020/">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="/">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="/">
-                        <i className="fab fa-pinterest"></i>
+                      <a href="https://www.youtube.com/channel/UCrrzGOVEBBifsxEs2nd8_UQ">
+                        <i className="fab fa-youtube"></i>
                       </a>
                     </li>
                   </ul>
