@@ -29,17 +29,17 @@ function Navbar() {
                   {/* <!-- Start Social Links --> */}
                   <ul className="social-list float-right list-inline">
                     <li className="list-inline-item">
-                      <a title="Facebook" href="/" target="_blank">
+                      <a title="Facebook" href="https://www.facebook.com/profile.php?id=100070414099420" target="_blank">
                         <i className="fab fa-facebook-f"></i>
                       </a>
                     </li>
                     <li className="list-inline-item">
-                      <a title="Twitter" href="/" target="_blank">
-                        <i className="fab fa-twitter"></i>
+                      <a title="Youtube" href="https://www.youtube.com/channel/UCrrzGOVEBBifsxEs2nd8_UQ" target="_blank">
+                        <i className="fab fa-youtube"></i>
                       </a>
                     </li>
                     <li className="list-inline-item">
-                      <a title="Instagram" href="/" target="_blank">
+                      <a title="Instagram" href="https://www.instagram.com/workingdogclub2020/" target="_blank">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
