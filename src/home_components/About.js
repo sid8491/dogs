@@ -58,7 +58,7 @@ function About() {
                 <div className="counter">
                   <i className="counter-icon fa fa-users"></i>
                   {/* <!-- insert your final value on data-count=  --> */}
-                  <div className="counter-value" data-count="1500">
+                  <div className="counter-value" data-count="10">
                     0
                   </div>
                   <h3 className="title">Happy Clients</h3>
@@ -71,7 +71,7 @@ function About() {
                 <div className="counter">
                   <i className="counter-icon flaticon-dog-in-front-of-a-man"></i>
                   {/* <!-- insert your final value on data-count=  --> */}
-                  <div className="counter-value" data-count="14">
+                  <div className="counter-value" data-count="6">
                     0
                   </div>
                   <h3 className="title">Professionals</h3>
@@ -84,7 +84,7 @@ function About() {
                 <div className="counter">
                   <i className="counter-icon flaticon-dog-2"></i>
                   {/* <!-- insert your final value on data-count=  --> */}
-                  <div className="counter-value" data-count="900">
+                  <div className="counter-value" data-count="30">
                     0
                   </div>
                   <h3 className="title">Adopted Pets</h3>
@@ -97,7 +97,7 @@ function About() {
                 <div className="counter">
                   <i className="counter-icon flaticon-prize-badge-with-paw-print"></i>
                   {/* <!-- insert your final value on data-count=  --> */}
-                  <div className="counter-value" data-count="12">
+                  <div className="counter-value" data-count="4">
                     0
                   </div>
                   <h3 className="title">Prizes</h3>
