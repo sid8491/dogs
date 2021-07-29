@@ -1526,7 +1526,7 @@ ul.custom li:before {
 }
 /* Page margin*/
 .page {
-  background: #fff;
+  background: rgb(0, 0, 0);
   padding-top: 120px;
   padding-bottom: 120px;
 }
