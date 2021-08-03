@@ -15,10 +15,10 @@ function About() {
         <div className="container block-padding pt-0">
           <div className="row">
             <div className="col-lg-6">
-              <h3>Dr. Harinder Yant & Mr. Sonu Khatri</h3>
+              <h3>Dr. Harinder Yant & Mr. Naresh Khatri</h3>
               {/* <p><strong>NAME OF OWNER</strong></p> */}
               <p>
-                Dr. Harinder Yant is a radiologist (MBBS + MD) and Mr. Sonu
+                Dr. Harinder Yant is a radiologist (MBBS + MD) and Mr. Naresh
                 Khatri is a sports personality. Both of them were very fond of
                 dogs from the childhood. Opening this venture was their
                 childhood dream and now that they have enough money from the

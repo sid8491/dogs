@@ -61,7 +61,7 @@ function Navbar() {
                 {/* <i className="flaticon-dog-20"></i> */}
                 <span>
                   <img
-                    src="dog-logo.png"
+                    src="new-logo.png"
                     height="100"
                     width="200"
                     alt="logo"
