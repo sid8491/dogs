@@ -195,7 +195,7 @@ function Services() {
             <p>
               We know your dog is a part of your family and you want him/her to
               look clean, comfortable and smell nice. At Working Dogs Club,
-              Gurgaon, we strive to make sure your pet is comfortable and happy,
+              Sonipat, we strive to make sure your pet is comfortable and happy,
               we want your pet to enjoy the grooming process as much as they can
               and look forward to its’ next visit.
             </p>

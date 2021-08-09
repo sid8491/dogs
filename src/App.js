@@ -12,6 +12,7 @@ import Behaviour from './components/Behaviour';
 import Courses from './components/Courses';
 import Food from './components/Food';
 import Healthcare from './components/Healthcare';
+import EthicalBreeding from './components/EthicalBreeding';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import ScrollToTop from './components/ScrollToTop';
 
@@ -34,6 +35,7 @@ function App() {
             <Route path="/courses" component={Courses} />
             <Route path="/food" component={Food} />
             <Route path="/healthcare" component={Healthcare} />
+            <Route path="/ethical-breeding" component={EthicalBreeding} />
             {/* <Route path="/our-team" exact component={Team} /> */}
           </Switch>
         </div>

@@ -29,17 +29,17 @@ function Navbar() {
                   {/* <!-- Start Social Links --> */}
                   <ul className="social-list float-right list-inline">
                     <li className="list-inline-item">
-                      <a title="Facebook" href="https://www.facebook.com/profile.php?id=100070414099420" target="_blank">
+                      <a title="Facebook" href="https://www.facebook.com/profile.php?id=100070414099420" target="_blank" rel="noreferrer">
                         <i className="fab fa-facebook-f"></i>
                       </a>
                     </li>
                     <li className="list-inline-item">
-                      <a title="Youtube" href="https://www.youtube.com/channel/UCrrzGOVEBBifsxEs2nd8_UQ" target="_blank">
+                      <a title="Youtube" href="https://www.youtube.com/channel/UCrrzGOVEBBifsxEs2nd8_UQ" target="_blank" rel="noreferrer">
                         <i className="fab fa-youtube"></i>
                       </a>
                     </li>
                     <li className="list-inline-item">
-                      <a title="Instagram" href="https://www.instagram.com/workingdogclub2020/" target="_blank">
+                      <a title="Instagram" href="https://www.instagram.com/workingdogclub2020/" target="_blank" rel="noreferrer">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
@@ -61,7 +61,7 @@ function Navbar() {
                 {/* <i className="flaticon-dog-20"></i> */}
                 <span>
                   <img
-                    src="new-logo.png"
+                    src="LOGO-August-2021.png"
                     height="100"
                     width="200"
                     alt="logo"
@@ -97,9 +97,15 @@ function Navbar() {
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link className="nav-link" to="/food">
                       Food, Toys & Accessories
+                    </Link>
+                  </li> */}
+                  {/* <!-- menu item --> */}
+                  <li className="nav-item">
+                    <Link className="nav-link" to="/ethical-breeding">
+                      Ethical Breeding
                     </Link>
                   </li>
                   {/* <!-- menu item --> */}
